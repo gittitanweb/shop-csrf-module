@@ -1,0 +1,23 @@
+{
+    "folder_name" : "csrf",
+    "version" : "1.0.0",
+    "information" : {
+        "header" : "Модуль для защиты web-сервисов от спама через формы обратной связи",
+        "anonse" : "Позволяет снизить уровень спама. Работает как один из способов защиты web-сервисов от CSRF атак",
+        "description" : "",
+        "author" : {
+            "email" : "info@titanweb.org"
+        },
+        "company" : {
+            "name" : "titanweb",
+            "website" : "http://titanweb.org",
+            "about" : "http://titanweb.org/about"
+        },
+        "media" : {
+            "image" : "/modules/files/csrf/uploads/cover.jpg",
+            "favicon" : "/modules/files/csrf/uploads/favicon.png",
+            "galery" : [],
+            "video" : ""
+        }
+    }
+}
